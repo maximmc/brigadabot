@@ -31,13 +31,14 @@ npm install
  echo "DISCORD_TOKEN='СЮДА НАДО ТОКЕН ЕБАНУТЬ'" > .env
 ```
 # Необходимые разрешения
-У бота должен быть скоуп `applications.commands`. Также надо выбрать в настройках бота `Server Members Intent` и `Message Content Intent`
-Также стоит дать разрешения:\n
-`Read Messages/View Channels`\n
-`Send Messages`\n
-`Read Message History`\n
-`Use Slash Commaands`\n
-`Connect`\n
+У бота должен быть скоуп `applications.commands`.  
+Также надо выбрать в настройках бота `Server Members Intent` и `Message Content Intent`  
+Также стоит дать разрешения:  
+`Read Messages/View Channels`  
+`Send Messages`  
+`Read Message History`  
+`Use Slash Commaands`  
+`Connect`  
 `Speak`
 
 # Запуск приложения
