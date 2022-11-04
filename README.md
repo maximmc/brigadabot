@@ -46,4 +46,4 @@ node index.js
 Перед использованием слеш-команд их необходимо задеплоить. Делается это запуском команды `!deploy`.
 
 ## Автор
-Ссылка на GitHub автора - https://github.com/TannerGabriel/discord-music-bot.git
+Ссылка на GitHub автора - https://github.com/TannerGabriel/discord-bot
