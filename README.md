@@ -32,7 +32,7 @@ npm install
 ```
 # Необходимые разрешения
 У бота должен быть скоуп `applications.commands`.  
-Также надо выбрать в настройках бота `Server Members Intent` и `Message Content Intent`  
+Еще надо выбрать в настройках бота `Server Members Intent` и `Message Content Intent`  
 Также стоит дать разрешения:  
 `Read Messages/View Channels`  
 `Send Messages`  
